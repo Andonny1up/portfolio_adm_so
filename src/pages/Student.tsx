@@ -22,10 +22,10 @@ const Student = () => {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    const loadStudent = async () => {
+    const loadStudent = async (studentId: string) => {
       try {
         // Vite permite hacer imports dinámicos de archivos locales.
-        const module = await import(`../students/${id}.json`);
+        const module = await import(`../students/${studentId}.json`);
         setStudentData(module.default);
       } catch (error) {
         console.error("No se pudo cargar el archivo del estudiante:", error);
@@ -36,7 +36,7 @@ const Student = () => {
     };
 
     if (id) {
-      loadStudent();
+      loadStudent(id);
     }
   }, [id]);
 
