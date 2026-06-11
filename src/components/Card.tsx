@@ -1,4 +1,3 @@
-import React from 'react';
 
 // Exportamos la interfaz para poder reutilizarla en otros lugares (como en Student.tsx)
 export type PortfolioItem = {
