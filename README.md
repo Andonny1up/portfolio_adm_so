@@ -1,7 +1,7 @@
 # PORTAFOLIO PARA ESTUDIANTES DE ADMINISTRACION DE SO.
 Este proyecto en react es un portafolio para estudiantes de primer semestre en el cual lograran mostrar los productos realizados en su avanze.
 # Agregar portafolio
-Para agregar un portafolio nuevo se debe crear un archivo json en la carpeta `students` con el formato nombre: `nombre_nombre_apellido_apellido.json`. 
+Para agregar un portafolio nuevo se debe crear un archivo json en la carpeta `students` con el formato nombre: `nombre-nombre-apellido-apellido.json`. 
 Nota: Evitar caracteres acentuados o no compatibles como `ñ` usar `n` en su lugar.
 El archivo debe contener el siguiente formato: 
 ```json

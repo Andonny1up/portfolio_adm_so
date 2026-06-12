@@ -19,7 +19,16 @@
             "id": 1,
             "title": "Maquina virtual",
             "description": " Es la installacion de una maquina virtual linux debian, la cual me ayude a comprender el proceso de instalacion de un SO.",
-            "image_url": "https://images.pexels.com/photos/7858742/pexels-photo-7858742.jpeg"
+            "image_url": "https://images.pexels.com/photos/7858742/pexels-photo-7858742.jpeg",
+            "images": [
+                {
+                    "id": 1,
+                    "image_url": "https://images.pexels.com/photos/7858742/pexels-photo-7858742.jpeg"
+                },{
+                    "id": 2,
+                    "image_url": "https://images.pexels.com/photos/7858742/pexels-photo-7858742.jpeg"
+                }
+            ]
         },
         {
             "id": 2,
