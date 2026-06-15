@@ -1,0 +1,76 @@
+{
+    "fullname": "Luis Enrique Mendez Sapani",
+    "image_profile": "https://i.imgur.com/KrlkKoU.jpeg",
+    "social_media": [
+        {
+            "id": 1,
+            "title": "LinkedIn",
+            "url": "www.linkedin.com/in/luis-sapani-aaa127412"
+        },
+        {
+            "id": 2,
+            "title": "Instagram",
+            "url": "https://www.instagram.com/luiss._.e?igsh=bTRuc2NtOW4wd3c0"
+        }
+    ],
+    "comment": "Soy un estudiante de primer semestre de la carrera de Ing de sistemas informaticos de la universidad Univalle-TDD, esta materia me ayudo a comprender la importancia de los sistemas operativos",
+    "portfolio": [
+        {
+            "id": 1,
+            "title": "Instalación de Máquina Virtual",
+            "description": "Instalación y configuración inicial de una máquina virtual con Linux Debian en Virtualbox.",
+            "image_url": "https://imgur.com/vIk0Jzf.jpg",
+            "images": [
+                {
+                    "id": 1,
+                    "image_url": "https://imgur.com/R6cpKdd.jpg"
+                },
+                {
+                    "id": 2,
+                    "image_url": "https://imgur.com/undefined.jpg"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Instalación y primer uso de Docker",
+            "description": "En una MV creada con SO basados en linux hacemos la instalacion de Docker(contenedores)",
+            "image_url": "https://imgur.com/fEq0tKl.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Hardenización de SO",
+            "description": "En una MV creamos lo que son distintos usuarios con distintos niveles de permisos esto para evitar fallos de seguridad",
+            "image_url": "https://imgur.com/w1ELfvg.jpg",
+            "images": [
+                {
+                    "id": 1,
+                    "image_url": "https://imgur.com/Fksp0c8.jpg"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Monitorización y Supervisión de Recurso",
+            "description": "Vemos el como utiliza los recursos nuestra computadora y tambien vemos lo que no es necezario y lo desactivamos",
+            "image_url": "https://imgur.com/D7NQOzd.jpg",
+            "images": [
+                {
+                    "id": 1,
+                    "image_url": "https://imgur.com/D7NQOzd.jpg"
+                }]
+        },
+        {
+            "id": 5,
+            "title": "COCKPIT&PROXMOX",
+            "description": "Otro tipo de MV las cuesles son utilizadas en servidores que a diferencia de aplicaciones como VirtualBox tiene un mejor uso de recursos  ",
+            "image_url": "https://imgur.com/SNORL9R.jpg",
+            "images": [
+                {
+                    "id": 1,
+                    "image_url": "https://imgur.com/f1oPHzv.jpg"
+                }
+            ]
+        }
+    ]
+}

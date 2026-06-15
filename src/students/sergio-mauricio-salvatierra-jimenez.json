@@ -1,0 +1,98 @@
+{
+    "fullname": "Sergio Mauricio Salvatierra Jiménez",
+    "image_profile": "https://i.imgur.com/RZt2fkH.jpg",
+    "social_media": [
+        {
+            "id": 1,
+            "title": "Facebook",
+            "url": "https://www.facebook.com/share/1D3XT3anyC/"
+        }
+    ],
+    "comment": "Soy estudiante de primer semestre, esta materia me ayudó a comprender el funcionamiento e instalación de una máquina virtual, seguridad virtual, servidores y gestion de permisos y usuarios",
+    "portfolio": [
+        {
+            "id": 1,
+            "title": "Acceso, Revisión y configuración de Bios",
+            "description": "Configuración inicial y acceso al firmware para la optimización",
+            "image_url": "https://i.imgur.com/BJJu0s2.jpg",
+            "images": [
+                {
+                    "id": 1,
+                    "image_url": "https://i.imgur.com/s7Ln6cU.jpg"
+                },
+                {
+                    "id": 2,
+                    "image_url": "https://i.imgur.com/njVFMJh.jpg"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Instalación de Sistemas Operativos Linux en Entorno Virtualizado",
+            "description": "Despliegue y configuración base de la distribución Ubuntu LTS Linux en entornos virtuales.",
+            "image_url": "https://i.imgur.com/w1daNzp.jpg",
+            "images": [
+                {
+                    "id": 1,
+                    "image_url": "https://i.imgur.com/ZfVm2Rv.jpg"
+                },
+                {
+                    "id": 2,
+                    "image_url": "https://i.imgur.com/UXLdGOV.jpg"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Cockpit & Proxmox",
+            "description": "Administración de servidores web y gestión de plataformas de virtualización.",
+            "image_url": "https://i.imgur.com/1rbOZdR.jpg",
+            "images": [
+                {
+                    "id": 1,
+                    "image_url": "https://i.imgur.com/r1aEGer.jpg"
+                },
+                {
+                    "id": 2,
+                    "image_url": "https://i.imgur.com/C5Ax7xY.jpg"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Hardenización de S.O",
+            "description": "Implementación de directivas de seguridad, políticas de contraseñas fuertes y bloqueo por inactividad.",
+            "image_url": "https://i.imgur.com/xm2vS83.jpg",
+            "images": [
+                {
+                    "id": 1,
+                    "image_url": "https://i.imgur.com/Kl443s8.jpg"
+                },
+                {
+                    "id": 2,
+                    "image_url": "https://i.imgur.com/93WZNhf.jpg"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Obtención,  Instalación de Software de Virtualización",
+            "description": "Descarga, instalación y configuración base de hipervisores y herramientas para la gestión de entornos virtuales.",
+            "image_url": "https://i.imgur.com/zT4K5Ok.jpg",
+            "images": [
+                {
+                    "id": 1,
+                    "image_url": "https://i.imgur.com/oEqjBBL.jpg"
+                },
+                {
+                    "id": 2,
+                    "image_url": "https://i.imgur.com/IzEORr2.jpg"
+                },
+                {
+                    "id": 3,
+                    "image_url": "https://i.imgur.com/9s35PdI.jpg"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "fullname": "Dianara Bazan Medina",
+    "image_profile": "https://i.imgur.com/4zJLdu6.jpeg",
+    "social_media": [
+        {
+            "id": 1,
+            "title": "Instagram",
+            "url": "https://www.instagram.com/dianar__a?igsh=azk1b3VsODNjNG5i"
+        },
+        {
+            "id": 2,
+            "title": "facebook",
+            "url": "https://www.facebook.com/share/1aKt6S2xAC/"
+        }, 
+        {
+            "id": 3,
+            "title": "Tiktok",
+            "url": "https://www.tiktok.com/@dianarxbazan?_r=1&_t=ZS-97DPn5GjIKy"
+        } 
+    ],
+    "comment": " Soy estudiante de primer semestre, esta materia me ayudo a eprender sobre las maquina virtuales entre otras cosas )",
+    "portfolio": [
+        {
+            "id": 1,
+            "title": "Instalación de Máquina Virtual",
+            "description": "Instalación y configuración inicial de una máquina virtual con Linux Debian.",
+            "image_url": "https://i.imgur.com/V49H1c2.jpeg",
+            "images": [
+                {
+                    "id": 1,
+                    "image_url": "https://i.imgur.com/9gVE2WJ.jpeg"
+                },
+                {
+                    "id": 2,
+                    "image_url": "https://i.imgur.com/zUASnCM.jpeg"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Instalacion de Docker",
+            "description": "En esta ractica descargamos e instalamos docker con la terminal. ",
+            "image_url": "blob:https://imgur.com/65e0a286-6a2c-463f-b303-13ecce2899bc"
+        },
+       {
+            "id": 3,
+            "title": "Monitorizacion y supervision de recursos",
+            "description": "En esta practica se vera sobre la memoria Avialable, y la free",
+            "image_url": "https://i.imgur.com/xIRxYlP.jpeg"
+        },
+        {
+            "id": 4,
+            "title": "Hardenizacion de so",
+            "description": "En esta practica se crea un usuario que no tenga privilegio de administracion",
+            "image_url": "https://i.imgur.com/15F0HuE.jpeg"
+        }
+    ]
+    }
+
+
+
+
+
+
+
+      

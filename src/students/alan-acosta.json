@@ -1,0 +1,115 @@
+{
+    "fullname": "Alan Cristian Acosta Ojopi",
+    "image_profile": "",
+    "social_media": [
+        {
+            "id": 1,
+            "title": "GitHub",
+            "url": "https://www.github.com/AlanAcosta0221"
+        },
+        {
+            "id": 2,
+            "title": "Instagram",
+            "url": "https://www.instagram.com/alanacosta2002"
+        }
+    ],
+    "comment": "Soy estudiante de Ingeniería de Sistemas y tengo interés en seguir aprendiendo sobre programación y nuevas tecnologías. Esta materia me permitió comprender mejor conceptos fundamentales que contribuirán a mi crecimiento académico y a mi futuro desempeño profesional.",
+    "portfolio": [
+        {
+            "id": 1,
+            "title": "Instalación de Máquina Virtual",
+            "description": "Instalación y configuración inicial de una máquina virtual con Linux Debian.",
+            "image_url": "https://i.imgur.com/j2FbOiR.png",
+            "images": [
+                {
+                    "id": 1,
+                    "image_url": "https://i.imgur.com/W6Dwu4f.png"
+                },
+                {
+                    "id": 2,
+                    "image_url": "https://i.imgur.com/R6nwjIp.png"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Gestión de Usuarios y Permisos",
+            "description": "Práctica de creación de usuarios, grupos y asignación de permisos CHMOD en Linux.",
+            "image_url": "https://i.imgur.com/xyb7anz.png",
+            "images": [
+                {
+                    "id": 1,
+                    "image_url": "https://i.imgur.com/x2w4Fky.png"
+                },
+                {
+                    "id": 2,
+                    "image_url": "https://i.imgur.com/zJkHr3w.png"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Instacion y uso de docker en Linux",
+            "description": "Instalación, verificación y uso de Docker para ejecutar una distribución Linux.",
+            "image_url": "https://i.imgur.com/cmAqeJQ.png",
+            "images": [
+                {
+                    "id": 1,
+                    "image_url": "https://i.imgur.com/VelRFyQ.png"
+                },
+                {
+                    "id": 2,
+                    "image_url": "https://i.imgur.com/Tf80wtv.png"
+                },
+                {
+                    "id": 3,
+                    "image_url": "https://i.imgur.com/NceSnTj.png"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Hardenizacion de SO Windows",
+            "description": "Aplicación de medidas de seguridad para fortalecer y proteger el sistema operativo.",
+            "image_url": "https://i.imgur.com/TrhFDV6.png",
+            "images": [
+                {
+                    "id": 1,
+                    "image_url": "https://i.imgur.com/XtrHaJw.png"
+                },
+                {
+                    "id": 2,
+                    "image_url": "https://i.imgur.com/9S6ncuB.png"
+                },
+                {
+                    "id": 3,
+                    "image_url": "https://i.imgur.com/06DAxnZ.png"
+                },
+                {
+                    "id": 4,
+                    "image_url": "https://i.imgur.com/VcYmQc7.png"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Configuración de servidor de dominio en windows",
+            "description": "Administración de dominios y usuarios con Active Directory en Windows Server.",
+            "image_url": "https://i.imgur.com/QaLq4FE.png",
+            "images": [
+                {
+                    "id": 1,
+                    "image_url": "https://i.imgur.com/tWNYuxy.png"
+                },
+                {
+                    "id": 2,
+                    "image_url": "https://i.imgur.com/ftAFj03.png"
+                },
+                {
+                    "id": 3,
+                    "image_url": "https://i.imgur.com/YXJDB3W.png"
+                }
+            ]
+        }
+    ]
+}

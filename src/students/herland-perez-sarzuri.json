@@ -1,0 +1,50 @@
+{
+    "fullname": "Herland Perez Sarzuri",
+    "image_profile": "https://i.imgur.com/PjTD264.jpeg",
+    "social_media": [
+        {
+            "id": 1,
+            "title": "Facebook",
+            "url": "https://www.facebook.com/herland.perez.2025/"
+        },
+        {
+            "id": 2,
+            "title": "Github",
+            "url": "https://github.com/Herlaand"
+        }
+    ],
+    "comment": "Durante el desarrollo de esta materia aprendí conceptos fundamentales de Linux, desde la instalación de sistemas operativos hasta la gestión de permisos",
+    "portfolio": [
+        {
+            "id": 1,
+            "title": "Acceso, Revisión y Configuración de BIOS",
+            "description": "Supervisar la BIOS de una pc y lo que contiene",
+            "image_url": "https://i.imgur.com/BAoZaus.png"
+            
+        },
+        {
+            "id": 2,
+            "title": "Obtención, instalación de software de virtualización",
+            "description": "Administración de sistemas y virtualización",
+            "image_url": "https://i.imgur.com/3YFHWsx.png"
+        },
+        {
+            "id": 3,
+            "title": "Instalación de Sistemas Operativos Linux en entorno virtualizado",
+            "description": "Instalación del sistema operativo Linux en maquina virtual",
+            "image_url": "https://i.imgur.com/7RLHIxI.png"
+        },
+        {
+            "id": 4,
+            "title": "Hardenización de SO",
+            "description": "Seguridad de una maquina virtual windows",
+            "image_url": "https://i.imgur.com/DfErp1V.png"
+        },
+        {
+            "id": 5,
+            "title": "Cockpit y Proxmox",
+            "description": "Administración de sistemas y virtualización",
+            "image_url": "https://i.imgur.com/ncY1yEd.png"
+        }
+    ]
+}

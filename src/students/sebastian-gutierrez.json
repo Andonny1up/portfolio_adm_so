@@ -1,0 +1,87 @@
+{
+    "fullname": "Sebastian Gutierrez Saavedra",
+    "image_profile": "https://i.imgur.com/w2lERv2.jpeg",
+    "social_media": [
+        {
+            "id": 1,
+            "title": "LinkedIn",
+            "url": "https://www.linkedin.com/in/sebastian-gutierrez-saavedra-a79564409?utm_source=share_via&utm_content=profile&utm_medium=member_android"
+        },
+        {
+            "id": 2,
+            "title": "GitHub",
+            "url": "https://github.com/Sebas-0501"
+        },
+        {
+            "id": 3,
+            "title": "Instagram",
+            "url": "https://www.instagram.com/sebastiangs05?igsh=MWdqc2Joc2NkNGFjYQ=="
+        },
+        {
+            "id": 4,
+            "title": "Mi portafolio Github",
+            "url": "https://github.com/Sebas-0501/Mi_Portafolio"
+        }
+    ],
+    "comment": "Soy estudiante de la carrera de Ingenieria de Sistemas Informaticos, considero que la materia de introducción a Sistemas Operativos me enseño bastantes cosas y desperto mi curiosidad por varias otras, sin duda el aprendizaje que tuve me va ayudar durante la carrera y en mi futuro profesional.",
+    "portfolio": [
+        {
+            "id": 1,
+            "title": "Instalación de Máquina Virtual",
+            "description": "Instalación y configuración inicial de una máquina virtual con Linux Ubuntu.",
+            "image_url": "https://i.imgur.com/eFpFHiW.png",
+            "images": [
+                {
+                    "id": 1,
+                    "image_url": "https://i.imgur.com/XZAdDyK.png"
+                },
+                {
+                    "id": 2,
+                    "image_url": "https://i.imgur.com/7eOKdxg.png"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Instalacion y Monitoreo de Cockpit Ubuntu server.",
+            "description": "Práctica de creación de usuarios, grupos y asignación de permisos CHMOD en Linux.",
+            "image_url": "https://i.imgur.com/FKpgusT.png"
+        },
+        {
+            "id": 3,
+            "title": "Hardenizacion del SO",
+            "description": "Hardenizacion del sistema operativo Windows",
+            "image_url": "https://i.imgur.com/Vapw2XS.png",
+            "images": [
+                {
+                    "id": 1,
+                    "image_url": "https://i.imgur.com/kmNyWYn.png"
+                }
+            ]
+        },
+         {
+            "id": 4,
+            "title": "Configuracion de Servidor de Dominio windows",
+            "description": "Instalacion y configuracion de un servidor de dominio en Windows Server",
+            "image_url": "https://i.imgur.com/yXqgVcE.png",
+            "images": [
+                {
+                    "id": 1,
+                    "image_url": "https://i.imgur.com/kmNyWYn.png"
+                }
+            ]
+        },
+         {
+            "id": 5,
+            "title": "Monitorizacion de recursos en Windows y Linux(Ubuntu).",
+            "description": "Monitorizacion de recursos en entorno Windows y Linux",
+            "image_url": "https://i.imgur.com/Bp3TPn0.png",
+            "images": [
+                {
+                    "id": 1,
+                    "image_url": "https://i.imgur.com/64qU0tG.png"
+                }
+            ]
+        }
+    ]
+}

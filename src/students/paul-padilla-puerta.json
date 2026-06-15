@@ -1,0 +1,61 @@
+{
+  "fullname": "Paul Andres Padilla Puerta",
+  "image_profile": "https://i.imgur.com/nQQwetQ.jpeg",
+  "social_media": [
+    {
+      "id": 1,
+      "title": "Instagram",
+      "url": "https://www.instagram.com/poulito24?igsh=eHQ0MnNzaTNiYW85"
+    },
+    {
+      "id": 2,
+      "title": "Facebook",
+      "url": "https://www.facebook.com/share/1EHWDHY9uf/"
+    }
+  ],
+  "comment": "Soy estudiante de primer semestre. Esta materia de Administración de Sistemas Operativos me ayuda a entender conceptos claves de sistemas operativos, usar entornos virtualizados y manejo de servidores.",
+  "portfolio": [
+    {
+      "id": 1,
+      "title": "Ingreso a la BIOS/UEFI",
+      "description": "Ingreso a la BIOS/UEFI de Windows 10, conociendo todas las configuraciones que ofrece.",
+      "image_url": "https://i.imgur.com/6WynveD.jpeg"
+    },
+    {
+      "id": 2,
+      "title": "Virtual Box",
+      "description": "Instalacion del programa Virtual Box para realizar cualquier practica de la materia sin comprometer el equipo fisico.",
+      "image_url": "https://i.imgur.com/5uEXJvy.jpeg"
+    },
+    {
+      "id": 3,
+      "title": "Linux Ubuntu",
+      "description": "Instalacion de una Distribucion Linux (este caso Ubuntu), practica muy fundamental para mi.",
+      "image_url": "https://i.imgur.com/8l1Uuca.jpeg"
+    },
+    {
+      "id": 4,
+      "title": "Cockpit",
+      "description": "Monitoreo de recursos en tiempo real de un servidor Ubuntu levantado en Virtual Box que es monitoreado mediante Cockpit.",
+      "image_url": "https://i.imgur.com/VYvEKsQ.jpeg"
+    },
+    {
+      "id": 5,
+      "title": "Servidor de Dominio en Windows",
+      "description": "Implementacion de un Controlador de Dominio en Windows Server utilizando Active Directory, donde se creo un usuario de red y se vinculo exitosamente una maquina cliente con Windows 10 al dominio centralizado.",
+      "image_url": "https://i.imgur.com/6jjFgvb.jpeg"
+    },
+    {
+      "id": 6,
+      "title": "Monitoreo y Gestion de Recursos",
+      "description": "Monitoreo y gestion de recursos en Linux Ubuntu en un entorno virtualizado.",
+      "image_url": "https://i.imgur.com/HUtnlAW.jpeg"
+    },
+    {
+      "id": 7,
+      "title": "Cuenta Administrador y Estandar",
+      "description": "Creacion de dos cuentas, una de tipo Administrador y la otra de tipo Estandar en una misma maquina virtual, todo para aplicar politicas de contrasenhas, bloqueo de inactividad y bloqueo por fuerza bruta.",
+      "image_url": "https://i.imgur.com/f6Fzi1e.jpeg"
+    }
+  ]
+}

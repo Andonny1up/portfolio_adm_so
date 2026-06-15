@@ -1,0 +1,50 @@
+{
+    "fullname": "Sara Condori Figueroa",
+    "image_profile": "https://i.imgur.com/8oIleZe.jpg",
+    "social_media": [
+        {
+            "id": 1,
+            "title": "Instagram",
+            "url": "https://www.instagram.com/sara420596?igsh=NzhzZHBmc3p4Y2x4"
+        },
+        {
+            "id": 2,
+            "title": "Tiktok",
+            "url": "https://www.tiktok.com/@sara_3294?_r=1&_t=ZS-97DedHa4x5b"
+        }
+    ],
+    "comment": "Soy una estudiante y esta materia me ayudo a aprender conococimientos basicos sobre el sistema operativo linux, administacion de usuarios y maquinas virtuales",
+    "portfolio": [
+        {
+            "id": 1,
+            "title": "Hardenización de SO",
+            "description": "Medidas basicas de seguridad en una maquina virtual",
+            "image_url": "https://i.imgur.com/H9VI09D.png"
+            
+        },
+        {
+            "id": 2,
+            "title": "Cockpit y Proxmox",
+            "description": "Administración de sistemas y virtualización",
+            "image_url": "https://i.imgur.com/j8V8YIm.png"
+        },
+        {
+            "id": 3,
+            "title": "Monitorización y Supervisión de Recurso",
+            "description": "Supervisar los recursos que consume cada aplicación",
+            "image_url": "https://i.imgur.com/CxIlBmj.png"
+        },
+        {
+            "id": 4,
+            "title": "Instalación de Sistemas Operativos Linux en entorno virtualizado",
+            "description": "Instalación del sistema operativo Linux en una maquina virtual Debian",
+            "image_url": "https://i.imgur.com/70wmu0O.png"
+        },
+        {
+            "id": 5,
+            "title": "Instalación y primer uso de Docker",
+            "description": "Instalacición de docker y como usarlo",
+            "image_url": "https://i.imgur.com/f579Zdw.png"
+        }
+    ]
+}

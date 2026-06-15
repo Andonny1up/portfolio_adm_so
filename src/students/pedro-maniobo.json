@@ -1,0 +1,220 @@
+{
+    "fullname": "Pedro Enrique Mariobo Gualy",
+    "image_profile": "https://i.imgur.com/sxtfnfQ.jpeg",
+    "social_media": [
+        {
+            "id": 1,
+            "title": "LinkedIn",
+            "url": "https://www.linkedin.com/in/pedro-enrique-mariobo-gualy-693050412/"
+        }
+
+    ],
+    "comment": "Soy estudiante de primer semestre en Univalle. Esta materia me ayudo a comprender cómo gestionar un entorno informatico seguro, desde la configuracion de directivas hasta la aplicacion de tecnicas de hardening para proteger un sistema operativo)",
+    "portfolio": [
+        {
+            "id": 1,
+            "title": "HARDENIZACION DE SISTEMAS OPERATIVO EN WINDOWS 10",
+            "description": "La hardenización (o hardening) de Windows 10 es el proceso de configurar el sistema operativo para reducir al máximo su superficie de ataque frente a ciberamenazas. Consiste en eliminar funciones innecesarias, cerrar vulnerabilidades de fabrica y aplicar políticas de seguridad estrictas sin alterar la estabilidad del sistema.",
+            "image_url": "https://imgur.com/EnNs40G",
+            "images": [
+                {
+                    "title":"Creacion de Usuario Estandar: Crear un usuario que no tenga privilegios de administrador (root o grupo sudo).",
+                    "id": 1,
+                    "image_url": "https://imgur.com/iXQpX3i",
+                    "description":"Nos vamos a configuracion y le damos a la parte donde dice cuentas, le damos despues en la parte de abajo donde dice familia y otros usuarios nos llevara donde dice agregar otra persona a este equipo."
+                },
+                {
+                    "id": 2,
+                    "image_url": "https://imgur.com/88F7CGb",
+                    "description" :"Le damos en la parte donde entan las letras azules le damos donde dice agregar usuario sin cuentas."
+                },
+                {
+                    "id": 3,
+                    "image_url": "https://imgur.com/JHY9U7Y",
+                    "description" :"Llenaremos todos los datos que nos pide para crear un nuevo usuario, después de haber llenado los datos le damos a siguiente y terminaras creando la cuenta como usuario estándar."
+                },
+                {
+                    "title": "Politicas de Contrasenas: Configurar el sistema (usando las Directivas de Seguridad Local en Windows) para obligar a que cualquier contrasena nueva tenga un minimo de 8 caracteres y caduque a los 90 dias",
+                    "id": 4,
+                    "image_url": "https://imgur.com/mfzGsdO",
+                    "description" :"Primero precionaremos (Windowns + R)  y dentro encribiremos secpol.msc presionando enter, nos llevara a directiva de seguridad local, daremos clic en Directivas de cuenta, para luego darle clic en donde dice Directiva de contrasenas."
+                },
+                {
+                    "id": 5,
+                    "image_url": "https://imgur.com/zTy7FUL",
+                    "description" :"cambiaremos la contraseña que tenga 8 digitos en longitud minima de contrasena y a una vigencia de la contrasena a 90 dias, en Vigencia maxima de la contrasena."
+                },
+                {
+                    "title":"Bloqueo por inactividad: configurar bloqueo automatico de sesion despues de 5 minutos de inactividad.",
+                    "id": 6,
+                    "image_url": "https://imgur.com/c7m70Ym",
+                    "description" :"Primero los vamos a directivas locales, damos clic opciones de seguridad, buscamos inicio de sesion interactivo: limite de inactividad del equipo damos clic y ponemos 300 segundo equivalente a 5 minutos, reiniciamos el equipo para que se aplique correctamente."
+                },
+                {
+                    "title":"Bloqueo por Fuerza Bruta: Configurar un bloqueo temporal de cuenta (ej. 15 minutos) si un usuario introduce mal su contraseña 3 veces seguidas.",
+                    "id": 7,
+                    "image_url": "https://imgur.com/mSdYp1i",
+                    "description" :"Nos vamos a directiva de cuenta, en la opción directiva de bloqueo de cuenta, cambiamos la duración del bloqueo de cuenta, a 15 minutos que se quede inhabilitada la cuenta al introducir incorrectamente la contraseña y el umbral de bloque de cuenta a 3 intentos por si se equivoca el usuario, pasado los 3 intentos se bloquea por 15 minutos."
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "INSTALACIÓN DE SOFTWARE DE VIRTUALIZACIÓN (VIRTUAL BOX)",
+            "description": " Es un software de virtualizacion gratuito y de codigo abierto desarrollado por Oracle. Sirve para crear maquinas virtuales, lo que te permite instalar y ejecutar diferentes sistemas operativos (como Linux, Windows o macOS) de forma simultanea dentro de tu sistema operativo actual, sin alterar tus archivos reales.",
+            "image_url": "https://imgur.com/CZWJvE1",
+            "images": [
+                {
+                    "id": 1,
+                    "image_url": "https://imgur.com/nmrMTQI",
+                    "description":"Primero nos vamos a Google en el buscador escribimos Virtual Box."
+                },
+                {
+                    "id": 2,
+                    "image_url": "https://imgur.com/pksXEBf",
+                    "description":"Le demos clip en la primera pagina que nos aparece en el google para buscar para descargarlo."
+                },        
+                {
+                    "id": 3,
+                    "image_url": "https://imgur.com/Dl66rb9",
+                    "description":"Le damos clip en el cuadro que dice descargar eso nos llevara a elegir en que descargarlo."
+                } ,
+               {
+                    "id": 4,
+                    "image_url": "https://imgur.com/zXpZwJ6",
+                    "description":"luego nos dara los paquetes de la Plataforma VirtualBox y veremos que hay diferentes, cada uno compatible con un dipositivo, nosotros escogeremos la que es compatible con Windows."
+                },
+               {
+                    "id": 5,
+                    "image_url": "https://imgur.com/tBq1o8S",
+                    "description":"Veremos a un costado de la pantalla que el programa se esta descargando y esperamos que termine de descargarse."
+                },
+               {
+                    "id": 6,
+                    "image_url": "https://imgur.com/ESzQfLn",
+                    "description":"Nos vamos a la carpeta donde nosotros decidimos donde descargar el virtualbox y vemos si se a descargado sin problema."
+               },
+               {
+                    "id": 7,
+                    "image_url": "https://imgur.com/7fPrGNe",
+                    "description":"vemos que abrio sin problemas listo."
+               }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "INSTALACIoN DE SISTEMAS OPERATIVOS LINUX (Ubuntu)  EN ENTORNO VIRTUALIZADO",
+            "description": " La instalación de Linux en un entorno virtualizado consiste en ejecutar este sistema operativo como una máquina invitada dentro de un software especial (hipervisor), sin alterar el sistema operativo principal de tu computadora.",
+            "image_url": "https://imgur.com/MgDDzTm",
+            "images": [
+                {
+                    "id": 1,
+                    "image_url": "https://imgur.com/DJoJVws",
+                    "description":"Primero buscamos la imagen ISO de Ubuntu en google y la descargamos y nos vamos a la aplicacion de oracle virtualbox le damos clic a la aplicacion y la abrimos.",
+                    "url": "https://ubuntu.com/download/desktop"
+                },
+                {
+                    "id":2,
+                    "image_url": "https://imgur.com/0BnszOx",
+                    "description":"Bien abierto el programa de damos clic en la parte dode dice nuevo y llemanos los datos que nos pide para crear una maquina virtual."
+                },        
+                {
+                    "id": 3,
+                    "image_url": "https://imgur.com/Kyapeqy",
+                    "description":"Le damos un nombre a nuestra maquina virtual y le cargamos la imagen del ISO de ubuntu."
+                } ,
+               {
+                    "id": 4,
+                    "image_url": "https://imgur.com/jMVaRIi",
+                    "description":"Le damos de cuantos nucleos y cuanto de RAM le ponemos a la máquina virtual  de acuerdo a la necesidad del trabajo y le damos en terminar para ejecutar la maquina."
+                },
+               {
+                    "id": 5,
+                    "image_url": "https://imgur.com/d9ktI6u",
+                    "description":"Esperamos que la maquina virtual de Ubuntu para que se carge."
+                },
+               {
+                    "id": 6,
+                    "image_url": "https://imgur.com/9Sfpn5s",
+                    "description":"Ya cargado el programa nos vamos al menú para ver que programas nos ofrece que se encuentra en la parte de abajo, en el lado izquierda del escritorio."
+               },
+               {
+                    "id": 7,
+                    "image_url": "https://imgur.com/ZSEabUc",
+                    "description":"Abierto el menú nos vamos a la terminal y en lo cual por medios de comandos podemos descargar los programas que queramos."
+               }
+            ]
+        },
+        {
+            "id": 4,
+            "title":"MONITORIZACIÓN Y SUPERVISIÓN DE RECURSO",
+            "description": "La monitorizacion y supervision de recursos es el proceso continuo y sistematico de recopilar, analizar y evaluar el rendimiento, la disponibilidad y el uso de los activos de una organizacion tecnologica para garantizar su funcionamiento optimo, prevenir fallas y asegurar el cumplimiento de las metas planificadas.",
+            "image_url": "https://imgur.com/5zSZRCi",
+            "images": [
+                {
+                    "title": "Entorno Windows Server (El Arquitecto GUI)",
+                    "id": 1,
+                    "image_url": "https://imgur.com/Qzj9iRh",
+                    "description":"Administrador de Tareas: Abran la herramienta (Ctrl + Shift + Esc). Naveguen a la pestana Detalles. Identifiquen el proceso explorer.exe y documenten su PID actual."
+                },
+                {
+                    "id":2,
+                    "image_url": "https://imgur.com/zfn53Dh",
+                    "description":"Gestion de Prioridad: Seleccionen cualquier proceso de usuario no critico (por ejemplo, un bloc de notas o el navegador), hagan clic derecho y cambien su Prioridad a por debajo de lo normal."
+                },        
+                {
+                    "id": 3,
+                    "image_url": "https://imgur.com/eR5E5BW",
+                    "description":"Monitor de Recursos (resmon): Abran el Monitor de Recursos desde el menu de inicio o ejecutando resmon.exe. Vayan a la pestaña Memoria e identifiquen qué proceso está registrando la mayor cantidad de errores de pagina fisicos (Hard Faults)."
+                } ,
+               {
+                    "title":"Entorno Linux (La Terminal del SysAdmin)",
+                    "id": 4,
+                    "image_url": "https://imgur.com/nuM0F61",
+                    "description":"Fotografía del Sistema: Abran su terminal y ejecuten (ps aux). Identifiquen qué demonio o proceso está utilizando el mayor porcentaje de CPU (%CPU)."
+                },
+               {
+                    "id": 5,
+                    "image_url": "https://imgur.com/30P6pAL",
+                    "description":"Monitorización en Vivo: Ejecuten el comando top (o htop si lo tienen instalado). Observen el comportamiento durante 2 minutos."
+                },
+               {
+                    "id": 6,
+                    "image_url": "https://imgur.com/3DL63GO",
+                    "description":"Análisis de RAM: Ejecuten el comando free -m para ver la memoria en Megabytes."
+               }                                            
+            ]
+        },
+        {
+            "id": 5,
+            "title":" INSTALACIÓN Y PRIMER USO DE DOCKER",
+            "description": "Docker es una plataforma de software que te permite empaquetar, distribuir y ejecutar aplicaciones dentro de contenedores ligeros y aislados, garantizando que el codigo funcione igual en cualquier computadora.",
+            "image_url": "https://imgur.com/KiKPATR",
+            "images": [
+                {
+                    "id": 1,
+                    "image_url": "https://imgur.com/62QeZWa",
+                    "description":"Instalación: Descargar e instalar Docker (Docker Desktop o Engine). Verificar que el servicio esté en ejecución atravez del comando (docker install)"
+                },
+                {
+                    "id":2,
+                    "image_url": "https://imgur.com/S7myJBX",
+                    "description":"Prueba inicial: Abrir la terminal y ejecutar el comando docker run hello-world para confirmar la conexión con el repositorio y la ejecución del contenedor."
+                },        
+                {
+                    "id": 3,
+                    "image_url": "https://imgur.com/TgJJdhU",
+                    "description":"Despliegue de contenedor: Ejecutar el comando docker run -it alpine sh para crear e ingresar a un contenedor interactivo con Alpine Linux."
+                } ,
+               {
+                    "id": 4,
+                    "image_url": "https://imgur.com/NKwg5f0",
+                    "description":"Interacción: Una vez dentro del contenedor (identificado por el símbolo / #), ejecutar comandos básicos de Linux (ej. ls, uname -a, cat /etc/os-release) para demostrar el aislamiento del entorno. Finalizar escribiendo exit."
+                }
+                        
+            ]
+        }
+        
+    ]
+}
+
