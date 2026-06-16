@@ -1,0 +1,49 @@
+{
+  "fullname": "JUNIOR JULIO AYALA CHAMBI",
+  "image_profile": "https://i.imgur.com/aRn8ZmJ.jpeg",
+  "social_media": [
+    {
+      "id": 1,
+      "title": "Instagram",
+      "url": "https://www.instagram.com/zayvex1?igsh=MXJjMGV5bmd6ZWV6MQ=="
+    }
+  ],
+  "comment": "Soy estudiante de primer semestre de la Universidad del Valle (Trinidad) con interés en la informática y la tecnología. Durante esta materia he aprendido mediante prácticas que me ayudaron a mejorar mis conocimientos en sistemas y herramientas tecnológicas.",
+  "portfolio": [
+    {
+      "id": 1,
+      "title": "Máquina Virtual Windows 10",
+      "description": "Se creó una máquina virtual con Windows 10 usando VirtualBox para practicar el uso de sistemas operativos.",
+      "image_url": "https://i.imgur.com/0BLGMCb.png",
+      "images": []
+    },
+    {
+      "id": 2,
+      "title": "Oracle VirtualBox",
+      "description": "Se utilizó VirtualBox para crear y ejecutar máquinas virtuales de forma segura y práctica.",
+      "image_url": "https://i.imgur.com/pksXEBf.png",
+      "images": []
+    },
+    {
+      "id": 3,
+      "title": "Instalación de Linux en Máquina Virtual",
+      "description": "Se instaló Linux en una máquina virtual para aprender cómo funciona este sistema operativo.",
+      "image_url": "https://i.imgur.com/wJ1XG2F.jpeg",
+      "images": []
+    },
+    {
+      "id": 4,
+      "title": "Monitorización de Recursos del Sistema",
+      "description": "Se revisó el uso de memoria, procesador y procesos del sistema usando herramientas básicas.",
+      "image_url": "https://i.imgur.com/st3XqpJ.jpeg",
+      "images": []
+    },
+    {
+      "id": 5,
+      "title": "Instalación y Uso de Docker",
+      "description": "Se utilizó Docker para ejecutar aplicaciones en contenedores y aprender su funcionamiento básico.",
+      "image_url": "https://i.imgur.com/f8060b58-5f8d-49e6-80c6-922899615bcf.png",
+      "images": []
+    }
+  ]
+}

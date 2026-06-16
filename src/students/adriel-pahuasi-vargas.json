@@ -1,0 +1,49 @@
+{
+    "fullname": "Adriel Pahuasi Vargas",
+    "image_profile": "https://imgur.com/8WrNqQf.jpg",
+    "social_media": [
+        {
+            "id": 1,
+            "title": "Facebook",
+            "url": "https://www.facebook.com/share/1Br4BnqMQP/"
+        },
+        {
+            "id": 2,
+            "title": "Instagram",
+            "url": "https://www.instagram.com/kanek_i4579?utm_source=qr&igsh=MTlncHdndTgyZmwzNw=="
+        }
+    ],
+    "comment": "Soy un estudiante de primer semestre de la carrera de Ing de sistemas informaticos, esta materia me ayudo a aprender muchas cosas nuevas que no sabia sobre todo al entorno virtual",
+    "portfolio": [
+        {
+            "id": 1,
+            "title": "Hardemizacion de SO",
+            "description": "Aprendemos como crear nuevos usuarios y a confugurar los permisos y accesos, tambien la configuracion de seguridad al poner un limite de intentos para la contraseña",
+            "image_url": "https://imgur.com/0aiqrpB.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Monitoreo y supervision de recursos",
+            "description": "Vemos la importancia de gestionar los recursos y como tener un buen uso de estos mismos",
+            "image_url": "https://imgur.com/DkuYxMG.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Instalacion de Docker",
+            "description": "Vemos como usar mas la terminal de linux para hacer instalaciones en ete caso Docker en el que creamos contenedores en linux",
+            "image_url": "https://imgur.com/Y3EQCVo.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Intalacion de sistemas operativos en una MV",
+            "description": "Vemos como usar MV que nos ayudan a hacer pruebas sin afectar a la maquina fisica lo que nos ayuda a hacer practicas que no podriamos sin un entorno virtual",
+            "image_url": "https://imgur.com/226aO0t.jpg"
+        },
+        {
+            "id": 5,
+            "title": "Investigacion de sistemas operativos",
+            "description": "Vemos la importancia que tuvieron los SO para el avance de la tecnologia y la facilidad para usar las PC",
+            "image_url": "https://imgur.com/XgdaIr8.jpg"
+        }
+    ]
+}

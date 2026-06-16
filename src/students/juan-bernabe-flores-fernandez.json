@@ -1,0 +1,60 @@
+{
+    "fullname": "Juan Bernabé Flores Fernández",
+    "image_profile": "https://i.postimg.cc/g2s4GTv0/IMG-20260615-211720-607-2.jpg",
+    "social_media": [
+        {
+            "id": 1,
+            "title": "Tik tok",
+            "url": "https://www.tiktok.com/@juan.bernab.flore2?_r=1&_t=ZS-97FMHAEi1ZJ"
+        },
+        {
+            "id": 2,
+            "title": "Instagram",
+            "url": "https://www.instagram.com/usuario.69d?igsh=b2IwZ2t1dHRpMzUy"
+        }
+    ],
+    "comment": "Durante el semestre aprendí a instalar y configurar Linux, lo que fortaleció mis conocimientos sobre sistemas operativos.",
+    "portfolio": [
+        {
+            "id": 1,
+            "title": "Unidad 1 - P2",
+            "description": "Obtención, instalación de software de virtualización",
+            "image_url": "https://i.postimg.cc/3JPnLGYn/Screenshot-20260614-185948-2.jpg",
+            "images": [
+                {
+                    "id": 1,
+                    "image_url": "https://i.imgur.com/imagen_captura_1.jpg"
+                },
+                {
+                    "id": 2,
+                    "image_url": "https://i.imgur.com/imagen_captura_2.jpg"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Gestión de UNIDAD 3 - P7: ",
+            "description": "Monitorización y Supervisión de Recurso",
+            "image_url": "https://i.postimg.cc/Kj1DfGVh/Screenshot-20260614-191633-2.jpg"
+        },
+        {
+        "id": 3,
+        "title": "Unidad 2 P4",
+        "description": "Instalación y primer uso de Docker.",
+        "image_url": "https://i.postimg.cc/MK4rh4mk/Screenshot-20260614-192645-2.jpg"
+        },
+        {
+        "id": 4,
+        "title": "UNIDAD 3 - P5: Configuración de Servidor de Dominio en Windows",
+        "description": "Configuración de Servidor de Dominio en Windows",
+        "image_url": "https://i.postimg.cc/fbHHfrLX/Screenshot-20260615-210927-2.jpg"
+        },
+        {
+        "id": 5,
+        "title": "Unidad ?",
+        "description": "ADMINISTRACION DE SISTEMAS Y VIRTUALIZACION",
+        "image_url": "https://i.postimg.cc/jSxQ34BM/Va-Oo-Aw-T.jpg"
+
+        }
+    ]
+}

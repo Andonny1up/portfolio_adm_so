@@ -1,6 +1,6 @@
 {
     "fullname": "Luis Enrique Mendez Sapani",
-    "image_profile": "https://i.imgur.com/KrlkKoU.jpeg",
+    "image_profile": "https://imgur.com/KrlkKoU.jpg",
     "social_media": [
         {
             "id": 1,
@@ -24,10 +24,6 @@
                 {
                     "id": 1,
                     "image_url": "https://imgur.com/R6cpKdd.jpg"
-                },
-                {
-                    "id": 2,
-                    "image_url": "https://imgur.com/undefined.jpg"
                 }
             ]
         },
@@ -49,7 +45,7 @@
                 }
             ]
         },
-        {
+        {                                 
             "id": 4,
             "title": "Monitorización y Supervisión de Recurso",
             "description": "Vemos el como utiliza los recursos nuestra computadora y tambien vemos lo que no es necezario y lo desactivamos",
@@ -58,7 +54,8 @@
                 {
                     "id": 1,
                     "image_url": "https://imgur.com/D7NQOzd.jpg"
-                }]
+                }
+            ]
         },
         {
             "id": 5,

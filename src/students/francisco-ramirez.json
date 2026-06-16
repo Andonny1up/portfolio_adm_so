@@ -1,0 +1,46 @@
+{
+  "fullname": "francisco David Ramirez Mafaile",
+  "image_profile": "",
+  "social_media": [
+    {
+      "id": 1,
+      "title": "INSTAGRAM",
+      "url": "https://www.instagram.com/?hl=es"
+    }
+  ],
+  "comment": "Soy estudiante de primer semestre en la universidad del valle (trinidad). Esta materia me ayudo a comprender cómo gestionar un entorno informatico seguro, desde la configuracion de directivas hasta la aplicacion de tecnicas de hardening para proteger un sistema operativo)",
+  "portfolio": [
+    {
+      "id": 1,
+      "description": "La fotomuestra una máquina virtual de Windows 10 ejecutándose en Oracle VirtualBox",
+      "image_url": "https://i.imgur.com/0BLGMCb.png",
+      "images": []
+    },
+    {
+      "id": 2,
+      "description": "Es un software de virtualizacion gratuito y de codigo abierto desarrollado por Oracle. Sirve para crear maquinas virtuales, lo que te permite instalar y ejecutar diferentes sistemas operativos (como Linux, Windows o macOS) de forma simultanea dentro de tu sistema operativo actual, sin alterar tus archivos reales.",
+      "image_url": "https://i.imgur.com/pksXEBf.png",
+      "images": []
+    },
+    {
+      "id": 3,
+      "description": "La instalación de Linux en un entorno virtualizado consiste en ejecutar este sistema operativo como una máquina invitada dentro de un software especial (hipervisor), sin alterar el sistema operativo principal de tu computadora.",
+      "image_url": "https://i.imgur.com/wJ1XG2F.jpeg",
+      "images": []
+    },
+    {
+      "id": 4,
+      "title": "MONITORIZACIÓN Y SUPERVISIÓN DE RECURSO",
+      "description": "La imagen muestra el Monitor de recursos de Windows, donde se observa un uso moderado de memoria RAM (60%), principalmente por procesos como Chrome y Edge WebView",
+      "image_url": "https://i.imgur.com/st3XqpJ.jpeg",
+      "images": []
+    },
+    {
+      "id": 5,
+      "title": "INSTALACIÓN Y PRIMER USO DE DOCKER",
+      "description": "Docker es una plataforma de software que te permite empaquetar, distribuir y ejecutar aplicaciones dentro de contenedores ligeros y aislados, garantizando que el codigo funcione igual en cualquier computadora.",
+      "image_url": "https://imgur.com/f8060b58-5f8d-49e6-80c6-922899615bcf",
+      "images": []
+    }
+  ]
+}
