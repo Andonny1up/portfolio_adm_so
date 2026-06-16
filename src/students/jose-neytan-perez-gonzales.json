@@ -1,0 +1,49 @@
+{
+    "fullname": "José Neytan Perez Gonzales",
+    "image_profile": "https://imgur.com/INn22lW.jpg",
+    "social_media": [
+        {
+            "id": 1,
+            "title": "LinkedIn",
+            "url": "www.linkedin.com/in/eso-tilin-262926416"
+        },
+        {
+            "id": 2,
+            "title": "Instagram",
+            "url": "https://www.instagram.com/neytan211?igsh=MXZ2NTA0ZGFobWxjYg=="
+        }
+    ],
+    "comment": "Soy un estudiante de primer semestre de la carrera de Ing de sistemas informaticos de la universidad Univalle-TDD, esta materia me ayudo a aprender a usar las máquinas virtuales",
+    "portfolio": [
+        {
+            "id": 1,
+            "title": "ACCESO, REVISIÓN Y CONFIGURACIÓN DE BIOS",
+            "description": "En esta practica vimos como acceder a la bios de nuestra PC y los distintos permisos y recursos que tiene la misma",
+            "image_url": "https://imgur.com/1Fcrvy8.jpg"
+        },
+        {
+            "id": 2,
+            "title": "IDENTIFICACIÓN Y MONITOREO DE PROCESOS",
+            "description": "analiza la gestión de recursos de hardware con el objetivo de identificar subprocesos esenciales, modificar sus prioridades de ejecución y evaluar el consumo de memoria utilizando ",
+            "image_url": "https://imgur.com/c6pwbtM.jpg"
+        },
+        {
+            "id": 3,
+            "title": "ADMINISTRACIÓN DE SISTEMAS Y VIRTUALIZACIÓN",
+            "description": "Esta practica nos ayuda a diferenciar y ver las ventajas de MV de tipo 1 y tipo 2 y asi ver cual se destaca mejor en ciertos ambitos",
+            "image_url": "https://imgur.com/KbvHEzJ.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Investigacion los Sistemas Operativos",
+            "description": "En esta practica vemos la importancia que tienen los SO en el avance tecnologico y como se paso de usar cuartos enteros para calculos aritmeticos a hacer eso y mucho mas en la palma de nuestras manos",
+            "image_url": "https://imgur.com/kMGUph0.jpg"
+        },
+        {
+            "id": 5,
+            "title": "Instalación de Active Directory (AD DS) en Windows Server",
+            "description": "En esta Practica vemos como podemos conectar dos MV mediante el uso de directorios  y dominios",
+            "image_url": "https://imgur.com/zpas0NN.jpg"
+        }
+    ]
+}
