@@ -1,6 +1,6 @@
 {
     "fullname": "Gabriel Hurtado Frell",
-    "image_profile": "file:///D:/Desktop/Tareas%20Univalle%201er%20semestre/imagenes/GAbriel.jpeg",
+    "image_profile": "https://i.imgur.com/PLpvzqE.jpeg",
     "social_media": [
         {
             "id": 1,
@@ -14,23 +14,23 @@
             "id": 1,
             "title": "Instalación de Máquina Virtual",
             "description": "Instalación y configuración inicial de una máquina virtual con Linux Debian.",
-            "image_url": "https://imgur.com/a/Xl6RyTp",
+            "image_url": "https://i.imgur.com/a/Xl6RyTp.png",
             "images": [
                 {
                     "id": 1,
-                    "image_url": "https://imgur.com/zoJdN0j"
+                    "image_url": "https://i.imgur.com/zoJdN0j.png"
                 },
                 {
                     "id": 2,
-                    "image_url": "https://imgur.com/TfTJQr1"
+                    "image_url": "https://i.imgur.com/TfTJQr1.png"
                 },
 		        {
                     "id": 3,
-                    "image_url": "https://imgur.com/qW8onam"
+                    "image_url": "https://i.imgur.com/qW8onam.png"
                 },
 		        {
                     "id": 4,
-                    "image_url": "https://imgur.com/JmUNaMZ"
+                    "image_url": "https://i.imgur.com/JmUNaMZ.png"
                 }
             ]
         },
@@ -38,23 +38,23 @@
             "id": 2,
             "title": "Gestión de Usuarios y Permisos",
             "description": "Práctica de creación de usuarios, grupos y asignación de permisos CHMOD en Windows 10, que fue el sistema operativo que ocupé.",
-            "image_url": "Ihttps://imgur.com/oQHt5jt",
+            "image_url": "Ihttps://i.imgur.com/oQHt5jt.png",
  	        "images": [
                 {
                     "id": 1,
-                    "image_url": "https://imgur.com/uKqi07u"
+                    "image_url": "https://i.imgur.com/uKqi07u.png"
                 },
                 {
                     "id": 2,
-                    "image_url": "https://imgur.com/dXKmL0R"
+                    "image_url": "https://i.imgur.com/dXKmL0R.png"
                 },
 		        {
                     "id": 3,
-                    "image_url": "https://imgur.com/ZEIBGYI"
+                    "image_url": "https://i.imgur.com/ZEIBGYI.png"
                 },
 		        {
                     "id": 4,
-                    "image_url": "https://imgur.com/p2WEaau"
+                    "image_url": "https://i.imgur.com/p2WEaau.png"
                 }
             ]
         },
@@ -62,38 +62,38 @@
             "id": 3,
             "title": "La evolución de los sistemas operativos",
             "description": "Aqui veremos la evolución de los sitemas operativos durante la historia",
-            "image_url": "https://imgur.com/wLdnfu3",
+            "image_url": "https://i.imgur.com/wLdnfu3.png",
  	        "images": [
                 {
                     "id": 1,
-                    "image_url": "https://imgur.com/lMRues9"
+                    "image_url": "https://i.imgur.com/lMRues9.png"
                 },
 		        {
                     "id": 2,
-                    "image_url": "https://imgur.com/lMRues9"
+                    "image_url": "https://i.imgur.com/lMRues9.png"
                 }]
             },
 	            {
             "id": 4,
             "title": "INSTALACIÓN Y PRIMER USO DE DOCKER",
             "description": "Vamos a ver la forma de intalar y usar DOCKER",
-            "image_url": "https://imgur.com/AJlpEtA",
+            "image_url": "https://i.imgur.com/AJlpEtA.png",
  	        "images": [
                 {
                     "id": 1,
-                    "image_url": "https://imgur.com/tMoH1lk"
+                    "image_url": "https://i.imgur.com/tMoH1lk.png"
                 },
 		{
                     "id": 2,
-                    "image_url": "https://imgur.com/78d4GSA"
+                    "image_url": "https://i.imgur.com/78d4GSA.png"
                 },
 		{
                     "id": 3,
-                    "image_url": "https://imgur.com/ShyDYOs"
+                    "image_url": "https://i.imgur.com/ShyDYOs.png"
                 },
 		{
                     "id": 4,
-                    "image_url": "https://imgur.com/mT8KcYu"
+                    "image_url": "https://i.imgur.com/mT8KcYu.png"
                 }]
         },
 	{
