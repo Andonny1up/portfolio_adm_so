@@ -1,0 +1,52 @@
+{
+  "fullname": "Luis Gustavo Benavides Yva",
+  "image_profile": "https://i.imgur.com/NxN8uCl.jpeg",
+
+  "social_media": [
+    {
+      "id": 1,
+      "title": "GitHub",
+      "url": "https://github.com/tu-usuario"
+    },
+    {
+      "id": 2,
+      "title": "Instagram",
+      "url": "https://www.instagram.com/izzt_luis?igsh=OWFyZXdkdXVrN3ht"
+    }
+  ],
+
+  "comment": "Soy estudiante y durante este semestre aprendí conceptos importantes sobre sistemas operativos, virtualización, administración de usuarios, permisos en Linux y herramientas de red.",
+
+  "portfolio": [
+    {
+      "id": 1,
+      "title": "Instalación de Máquina Virtual Ubuntu",
+      "description": "Creación y configuración de máquinas virtuales Ubuntu utilizando Oracle VirtualBox.",
+      "image_url": "https://i.imgur.com/PT7RSyI.png"
+    },
+    {
+      "id": 2,
+      "title": "Gestión de Usuarios y Permisos",
+      "description": "Creación de usuarios, grupos y asignación de permisos mediante comandos Linux.",
+      "image_url": "https://i.imgur.com/PkFUbQG.png"
+    },
+    {
+      "id": 3,
+      "title": "Comandos Básicos de Linux",
+      "description": "Uso de comandos de navegación, administración de archivos y directorios.",
+      "image_url": "https://i.imgur.com/V8CmLcV.png"
+    },
+    {
+      "id": 4,
+      "title": "Configuración de Red",
+      "description": "Prácticas con ping, ipconfig, ifconfig y pruebas de conectividad.",
+      "image_url": "https://i.imgur.com/pcPv2xz.png"
+    },
+    {
+      "id": 5,
+      "title": "Análisis de Protocolos de Correo Electrónico",
+      "description": "Estudio de SMTP, POP3 e IMAP.",
+      "image_url": "https://i.imgur.com/RvWuyiy.png"
+    }
+  ]
+}

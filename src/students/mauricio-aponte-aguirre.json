@@ -1,0 +1,59 @@
+{
+  "fullname": "Mauricio Aponte Aguirre",
+  "image_profile": "https://copilot.microsoft.com/th/id/BCO.ca3d3444-3fb3-4e36-8bb1-21006086bc7a.png",
+  "social_media": [
+    {
+      "id": 1,
+      "title": "instagram",
+      "url": "https://www.instagram.com/mauricio.aponte1?igsh=MXZwanNudjl4eGkwNw=="
+    },
+    {
+      "id": 2,
+      "title": "facebook",
+      "url": "https://www.facebook.com/share/1BMMcpuyvq/"
+    }
+  ],
+  "comment": "Nunca he sido el más listo, pero intento aprender y agradezco que quieran enseñarme algo, incluso cuando hago las cosas mal.",
+  "portfolio": [
+    {
+      "id": 1,
+      "title": "Instalación de Máquina Virtual",
+      "description": "Instalación y configuración inicial de una máquina virtual con Linux Debian.",
+      "image_url": "https://i.imgur.com/imagen_principal_del_proyecto.jpg",
+      "images": [
+        {
+          "id": 1,
+          "image_url": "https://i.imgur.com/imagen_captura_1.jpg"
+        },
+        {
+          "id": 2,
+          "image_url": "https://i.imgur.com/imagen_captura_2.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Gestión de Usuarios y Permisos",
+      "description": "Práctica de creación de usuarios, grupos y asignación de permisos CHMOD en Linux.",
+      "image_url": "https://photos.app.goo.gl/9mwixQDqut3Tu3dFA"
+    },
+    {
+      "id": 3,
+      "title": "Configuración de Red en Linux Server",
+      "description": "Práctica de configuración de adaptadores de red en máquina virtual para acceso remoto.",
+      "image_url": "https://i.imgur.com/proyecto_red.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Monitoreo con Cockpit",
+      "description": "Uso de Cockpit para monitoreo en tiempo real de CPU, RAM, Disco y Red.",
+      "image_url": "https://i.imgur.com/proyecto_cockpit.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Administración de Políticas de Seguridad",
+      "description": "Configuración de políticas de seguridad en Windows Server dentro de máquina virtual.",
+      "image_url": "https://i.imgur.com/proyecto_seguridad.jpg"
+    }
+  ]
+}

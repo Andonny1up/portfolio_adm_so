@@ -1,0 +1,49 @@
+{
+  "fullname": "Mariana Nilaca Castedo",
+  "image_profile": "https://i.imgur.com/LRcril1.jpg",
+  "social_media": [
+    {
+      "id": 1,
+      "title": "Facebook",
+      "url": "https://www.facebook.com/share/17xkDqzSdH/"
+    },
+    {
+      "id": 2,
+      "title": "Instagram",
+      "url": "https://www.instagram.com/marian_nilaca?igsh=ODZqeTdjb2JlbTdq"
+    }
+  ],
+  "comment": "Soy un estudiante de primer semestre y esta materia me ayudó a desarrollar habilidades prácticas relacionadas con la virtualización y la administración de sistemas",
+  "portfolio": [
+    {
+      "id": 1,
+      "title": "Hardenización de SO",
+      "description": "Aplicación de estrategias de seguridad informática enfocadas en la protección y optimización de un sistema operativo",
+      "image_url": "https://i.imgur.com/U9P6HhE.png"
+    },
+    {
+      "id": 2,
+      "title": " Instalación de Sistemas Operativos Linux en entorno virtualizado",
+      "description": "Instalación y configuración de sistemas operativos Linux en un entorno virtualizado, permitiendo comprender su funcionamiento y características principales",
+      "image_url": "https://i.imgur.com/VfQbj9x.png"
+    },
+    {
+      "id": 3,
+      "title": "Obtención, instalación de software de virtualización",
+      "description": "Instalación y configuración de software de virtualización para la creación y gestión de entornos de trabajo virtuales",
+      "image_url": "https://i.imgur.com/DCkVCdN.png"
+    },
+    {
+      "id": 4,
+      "title": "Monitorización y Supervisión de Recurso",
+      "description": "Proceso enfocado en la observación y control del rendimiento de los recursos del sistema para ver su correcto funcionamiento",
+      "image_url": "https://i.imgur.com/TY0MJxs.png"
+    },
+    {
+      "id": 5,
+      "title": "Cockpit y Proxmox",
+      "description": "Administración de sistemas y virtualización",
+      "image_url": "https://i.imgur.com/DPU2VG4.png"
+    }
+  ]
+}

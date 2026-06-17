@@ -1,0 +1,124 @@
+{
+    "fullname": "Gabriel Hurtado Frell",
+    "image_profile": "file:///D:/Desktop/Tareas%20Univalle%201er%20semestre/imagenes/GAbriel.jpeg",
+    "social_media": [
+        {
+            "id": 1,
+            "title": "Instagram",
+            "url": "https://www.instagram.com/in/gabrielhurtadofarell2006/"
+        }
+    ],
+    "comment": "Soy estudiante de primer semestre de Ingeniería de Sistemas Informáticos en Univalle. Durante la asignatura de Administración de Sistemas Operativos desarrollé prácticas relacionadas con la evolución histórica de los sistemas operativos, la hardenización de sistemas, la monitorización y supervisión de recursos, el uso de Docker y la virtualización mediante VirtualBox.Estas actividades fortalecieron mis conocimientos en administración, seguridad y gestión de sistemas informáticos.",
+	"portfolio": [
+        {
+            "id": 1,
+            "title": "Instalación de Máquina Virtual",
+            "description": "Instalación y configuración inicial de una máquina virtual con Linux Debian.",
+            "image_url": "https://imgur.com/a/Xl6RyTp",
+            "images": [
+                {
+                    "id": 1,
+                    "image_url": "https://imgur.com/zoJdN0j"
+                },
+                {
+                    "id": 2,
+                    "image_url": "https://imgur.com/TfTJQr1"
+                },
+		        {
+                    "id": 3,
+                    "image_url": "https://imgur.com/qW8onam"
+                },
+		        {
+                    "id": 4,
+                    "image_url": "https://imgur.com/JmUNaMZ"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Gestión de Usuarios y Permisos",
+            "description": "Práctica de creación de usuarios, grupos y asignación de permisos CHMOD en Windows 10, que fue el sistema operativo que ocupé.",
+            "image_url": "Ihttps://imgur.com/oQHt5jt",
+ 	        "images": [
+                {
+                    "id": 1,
+                    "image_url": "https://imgur.com/uKqi07u"
+                },
+                {
+                    "id": 2,
+                    "image_url": "https://imgur.com/dXKmL0R"
+                },
+		        {
+                    "id": 3,
+                    "image_url": "https://imgur.com/ZEIBGYI"
+                },
+		        {
+                    "id": 4,
+                    "image_url": "https://imgur.com/p2WEaau"
+                }
+            ]
+        },
+	    {
+            "id": 3,
+            "title": "La evolución de los sistemas operativos",
+            "description": "Aqui veremos la evolución de los sitemas operativos durante la historia",
+            "image_url": "https://imgur.com/wLdnfu3",
+ 	        "images": [
+                {
+                    "id": 1,
+                    "image_url": "https://imgur.com/lMRues9"
+                },
+		        {
+                    "id": 2,
+                    "image_url": "https://imgur.com/lMRues9"
+                }]
+            },
+	            {
+            "id": 4,
+            "title": "INSTALACIÓN Y PRIMER USO DE DOCKER",
+            "description": "Vamos a ver la forma de intalar y usar DOCKER",
+            "image_url": "https://imgur.com/AJlpEtA",
+ 	        "images": [
+                {
+                    "id": 1,
+                    "image_url": "https://imgur.com/tMoH1lk"
+                },
+		{
+                    "id": 2,
+                    "image_url": "https://imgur.com/78d4GSA"
+                },
+		{
+                    "id": 3,
+                    "image_url": "https://imgur.com/ShyDYOs"
+                },
+		{
+                    "id": 4,
+                    "image_url": "https://imgur.com/mT8KcYu"
+                }]
+        },
+	{
+            "id": 5,
+            "title": "INSTALACIÓN DE SOFTWARE DE VIRTUALIZACIÓN (VIRTUALBOX)",
+            "description": "En esta parte veremos la instalación de VIRTUALBOX",
+            "image_url": "https://i.postimg.cc/RhQ5cDVY/5-1.png",
+ 	        "images": [
+                {
+                    "id": 1,
+                    "image_url": "https://i.postimg.cc/RhQ5cDVY/5-1.png"
+                },
+		{
+                    "id": 2,
+                    "image_url": "https://i.postimg.cc/W1fR6rTV/5-2.png"
+                },
+		{
+                    "id": 3,
+                    "image_url": "https://i.postimg.cc/ZRp1SM3m/5-3.png"
+                },
+		{
+                    "id": 4,
+                    "image_url": "https://i.postimg.cc/RhvbzV40/5-6.png"
+                }]
+        }
+    ]
+}
+

@@ -1,0 +1,46 @@
+{
+ "fullname": "Jorge Andres Suarez Suarez",
+ "image_profile": "https://i.imgur.com/ezQHNph.png",
+ "social_media": [
+ {
+ "id": 1,
+ "title": "LinkedIn",
+ "url": "https://www.linkedin.com/in/jorge-andr%C3%A9s-su%C3%A1rez-su%C3%A1rez-\nb902b0417?utm_source=share_via&utm_content=profile&utm_medium=member_android"
+ }
+ 
+ ],
+ "comment": "Soy un estudiante de la carrera de Ingeniera en Sistemas Informaticos en Univalle\ntrinidad, me alegro de haber cursado esta materia",
+ "portfolio": [
+ {
+ "id": 1,
+ "title": "Instalación de Máquina Virtual",
+ "description": "Instalación y configuración inicial de una máquina virtual con Linux\nDebian.",
+ "image_url": "https://i.imgur.com/sLiz5jl.png"
+ 
+ },
+ {
+ "id": 2,
+ "title": "",
+ "description": "Acceso y revision de Bios.",
+ "image_url": "https://i.imgur.com/EsTxRNp.jpeg"
+ },
+ {
+ "id": 3,
+ "title": "",
+ "description": "Instalacion y Gestion de servidor Windows Server.",
+ "image_url": "https://i.imgur.com/Xn2JiUw.png"
+ },
+ {
+ "id": 4,
+ "title": "",
+ "description": "Monitoreo de recursos.",
+ "image_url": "https://i.imgur.com/PsN6VSX.png"
+   },
+ {
+   "id": 5,
+ "title": "",
+ "description": "instalacion docker.",
+ "image_url": "https://i.imgur.com/zDfyOrz.png"
+ }
+]
+}
