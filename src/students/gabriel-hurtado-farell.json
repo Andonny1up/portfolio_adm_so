@@ -14,7 +14,7 @@
             "id": 1,
             "title": "Instalación de Máquina Virtual",
             "description": "Instalación y configuración inicial de una máquina virtual con Linux Debian.",
-            "image_url": "https://i.imgur.com/a/Xl6RyTp.png",
+            "image_url": "https://i.imgur.com/L2mem2p.png",
             "images": [
                 {
                     "id": 1,
@@ -38,7 +38,7 @@
             "id": 2,
             "title": "Gestión de Usuarios y Permisos",
             "description": "Práctica de creación de usuarios, grupos y asignación de permisos CHMOD en Windows 10, que fue el sistema operativo que ocupé.",
-            "image_url": "Ihttps://i.imgur.com/oQHt5jt.png",
+            "image_url": "https://i.imgur.com/oQHt5jt.png",
  	        "images": [
                 {
                     "id": 1,
